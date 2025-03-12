@@ -1,0 +1,74 @@
+Virtual Experience pre-release 1 changelog
+    Product list
+        Windows XP x32 (with SP3)
+        Windows Vista x32 (stopped) (with SP2)
+        Windows Vista 64 [experemental] (with SP2)
+        Windows 7 (x64) (with SP1)
+        Windows 8 (x64)
+    Changelog
+        - Добавлена возможность протестировать Vista 64
+        - Установлен Office 2013 Профессиональный Плюс для Windows 8 x64
+        - Изменена сортировка ярлыков в меню "Пуск" в Windows 8 x64
+	    - Доступ к Windows Vista x32 закрыт
+
+___
+
+Virtual Experience pre-release 2 changelog
+Product list
+        Windows XP x32 (with SP3)
+        Windows Vista x32 (stopped) (with SP2)
+        Windows Vista 64 [experemental] (with SP2)
+        Windows 7 (x64) (with SP1)
+        Windows 8 (x64)
+    Changelog
+        - Установлен nLite на Windows XP x32 (with SP3)
+
+___
+
+Virtual Experience pre-release 3 changelog
+Product list
+        Windows XP x32 (with SP3)
+        Windows Vista x32 (stopped) (with SP2)
+        Windows Vista 64 [experemental] (with SP2)
+        Windows 7 (x64) (with SP1)
+        Windows 8 (x64)
+        macOS Ventura [experemental]
+    Changelog
+        - Добавлена возможность протестировать macOS [!нестабильно!]
+
+___
+
+Virtual Experience pre-release 4 changelog
+Product list
+        Windows XP x32 (with SP3)
+        Windows Vista x32 (stopped) (with SP2)
+        Windows Vista 64 [experemental] (with SP2)
+        Windows 7 (x64) (with SP1)
+        Windows 8 (x64)
+    Changelog
+        - В Windows Vista 64 доступен Aero-интерфейс
+        - В Windows Vista 64 установлен Supermium
+        - Сервера macOS Ventura отключены
+
+___
+
+Virtual Experience pre-release 5 changelog
+Product list
+        Windows XP x32 (with SP3)
+        Windows Vista 64 [experemental] [stopped] (with SP2)
+        Windows 7 fix (x64) (with SP1)
+        Windows 8 (x64)
+    Changelog
+        - Восстановлен доступ к Windows 7 x64
+
+___
+
+Virtual Experience pre-release 6 changelog
+Product list
+        Windows XP x32 (with SP3)
+        Windows Vista 64 fix (with SP2)
+        Windows 7 fix (x64) (with SP1)
+        Windows 8 (x64)
+    Changelog
+        - Восстановлен доступ к Windows Vista 64
+        - Windows Vista 64 выведена из эксперементального этапа разработки
